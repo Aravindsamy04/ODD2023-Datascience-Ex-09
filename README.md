@@ -31,6 +31,7 @@ df=sns.load_dataset("tips")
 print(df)
 ```
 <img width="230" alt="278807457-1b3fbb99-9a74-4b53-8ce2-497d3d66105e" src="https://github.com/Aravindsamy04/ODD2023-Datascience-Ex-09/assets/113497037/e5951e63-ebb8-4a56-838b-3aa434b5eaa2">
+
 ```
 df.isnull().sum()
 ```
